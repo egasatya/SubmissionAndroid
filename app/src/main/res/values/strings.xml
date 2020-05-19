@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SubmissionAndroid</string>
+    <string name="books_title">Judul Buku</string>
+    <string name="author">Author</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="oleh">Oleh</string>
+    <string name="harga">Harga</string>
+    <string name="content_harga">Content Harga</string>
+    <string name="format">Format</string>
+    <string name="conten_format">Soft Copy</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="content_bahasa">Indonesia</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="content_penerbit">Content Penerbit</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="deskripsi_buku">Deskripsi Buku</string>
+    <string name="name">Muhammad Satya Nugraha</string>
+    <string name="email">satyaega10@gmail.com</string>
+</resources>
